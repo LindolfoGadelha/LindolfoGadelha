@@ -29,4 +29,3 @@ Eu sou Lindolfo Gadelha, sou um programador Front End, atualmente estou aprenden
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindolfogadelha)](https://github.com/anuraghazra/github-readme-stats)
-
