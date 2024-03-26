@@ -10,7 +10,7 @@
 
 
 
-Eu sou Lindolfo Gadelha, sou um programador Full Stack, atualmente estou aprendendo e criando projetos com: 💻
+Eu sou Lindolfo Gadelha, sou um programador Front End e estudando Back End, atualmente estou aprendendo e criando projetos com: 💻
 
 
 <br><img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='logo-html' />
